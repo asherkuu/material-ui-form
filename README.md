@@ -10,6 +10,5 @@ yarn instll
 or 
 npm install
 
-after install
 npm run start
 ```
